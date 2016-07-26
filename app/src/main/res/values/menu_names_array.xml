@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="menu_names_array">
+        <item>附近的人</item>
+        <item>游戏中心</item>
+        <item>漂流瓶</item>
+        <item>扫一扫</item>
+        <item>应用商店</item>
+        <item>摇一摇</item>
+        <item>信用卡</item>
+        <item>数据收集</item>
+        <item>钱包</item>
+        <item>照片</item>
+    </array>
+</resources>

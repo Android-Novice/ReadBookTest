@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/contextmenuitem1"
+        android:icon="@drawable/c1"
+        android:menuCategory="system"
+        android:title="上下文菜单第一项"/>
+    <item
+        android:id="@+id/contextmenuitem2"
+        android:icon="@drawable/c2"
+        android:title="上下文菜单第二项"/>
+    <item
+        android:id="@+id/contextmenuitem3"
+        android:icon="@drawable/c3"
+        android:menuCategory="system"
+        android:title="上下文菜单第三项"/>
+    <item
+        android:id="@+id/contextmenuitem4"
+        android:icon="@drawable/c4"
+        android:title="上下文菜单第四项">
+        <menu>
+            <item
+                android:id="@+id/contextmenusubitem1"
+                android:icon="@drawable/d1"
+                android:title="上下文菜单第一子项"/>
+            <item
+                android:id="@+id/contextmenusubitem2"
+                android:icon="@drawable/d2"
+                android:title="上下文菜单第二子项"/>
+            <item
+                android:id="@+id/contextmenusubitem3"
+                android:icon="@drawable/d3"
+                android:title="上下文菜单第三子项"/>
+        </menu>
+    </item>
+</menu>

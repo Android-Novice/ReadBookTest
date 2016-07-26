@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">苍老师第二部</string>
+    <string name="hello_world">哪有那么多苍老师的电影，想看自己去拍~ 记得分享，谢谢。</string>
+    <string name="hello_world2">第六个listview，哪有那么多苍老师的电影，想看自己去拍~ 记得分享，谢谢。</string>
+    <string name="action_settings0">查看所有联系人</string>
+    <string name="action_settings1">展示拨号界面并显示一个号码</string>
+    <string name="action_settings2">显示特定联系人_号码（有问题）</string>
+    <string name="action_settings3">显示特定联系人_名字（有问题）</string>
+    <string name="action_settings4">点击自己看一下效果</string>
+    <string name="getconbooklist">获取书名</string>
+    <string name="insertbook">插入书名</string>
+    <string name="updatebook">修改书名</string>
+    <string name="title_activity_frame_layout">FrameLayout控件示例</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvtext1">1 textview 1</string>
+    <string name="tvtext2">2 textview 2</string>
+    <string name="tvtext3">3 textview 3</string>
+    <string name="tvtext4">4 textview 4</string>
+    <string name="tvtext5">5 textview 5</string>
+    <string name="btnoktext">Close</string>
+    <string name="btnframelayout">FrameLayout示例</string>
+    <string name="title_activity_linear_layout">LinearLayout示例</string>
+    <string name="btnlinearlayout">LinearLayout示例</string>
+    <string name="title_activity_table_layout">TableLayout示例</string>
+    <string name="tableteststring">only test show text in TextView that its parent is tablelayout, but i didn\'t put the TextView into TableRow</string>
+    <string name="tableteststring2">中华人民共和国</string>
+    <string name="title_activity_absolute_layout">AbsoluteLayout示例</string>
+    <string name="imagedescribe">这只是一张普通的图片，没有什么特别之处！</string>
+    <string name="title_activity_list_view_activity_1">ListView示例1</string>
+    <string name="title_activity_list_view_activity_2">ListView示例2</string>
+    <string name="title_activity_list_view_activity_3">ListView示例3</string>
+    <string name="title_activity_list_view_activity_4">ListView示例4</string>
+    <string name="moreinfo">More#8230;</string>
+    <string name="title_activity_list_view_activity_5">ListView示例5</string>
+    <string name="title_activity_list_view_activity_6">ListView示例6</string>
+    <string name="title_activity_list_view_activity_7">ListView示例7</string>
+    <string name="title_activity_grid_view_activity_1">GridView示例1</string>
+    <string name="title_activity_uicontrols">UIControls示例</string>
+    <string name="title_activity_dialog">Dialog示例</string>
+    <string name="content_provider_demo">ContentProvider示例</string>
+    <string name="normaldialog1">一般对话框——按钮点击分别定义</string>
+    <string name="normaldialog2">一般对话框——按钮点击合并定义</string>
+    <string name="listdialog">列表对话框</string>
+    <string name="radiobtndialog">单选按钮形式的对话框</string>
+    <string name="checkboxdialog">多选框形式的对话框</string>
+    <string name="datepickerdialogdemo">DatePickerDialog</string>
+    <string name="timepickerdialogdemo">TimePickerDialog</string>
+    <string name="progressdialogdemo">ProgressDialog</string>
+    <string name="title_activity_first_navigation_drawer">FirstNavigationDrawerActivity</string>
+
+    <string name="navigation_drawer_open">"打开右侧菜单"</string>
+    <string name="navigation_drawer_close">关闭右侧菜单</string>
+
+</resources>

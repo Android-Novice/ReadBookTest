@@ -1,0 +1,64 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.yuqf.readbooktest.AbsoluteLayoutActivity" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="10dp"
+        android:layout_y="10dp"
+        android:background="@color/tvcolor1"
+        android:text="@string/hello_world" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="20dp"
+        android:background="@color/tvcolor1"
+        android:text="@string/hello_world" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_x="20dp"
+        android:layout_y="60dp"
+        android:background="@color/tvcolor2"
+        android:text="@string/tableteststring" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="100dp"
+        android:background="@color/tvcolor2"
+        android:text="@string/tableteststring" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="60dp"
+        android:layout_y="60dp"
+        android:contentDescription="@string/imagedescribe"
+        android:src="@drawable/nomobile" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_x="30dp"
+        android:layout_y="200dp"
+        android:background="@color/tvcolor3"
+        android:text="@string/tableteststring" />
+
+    <Button
+        android:id="@+id/btnclose3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="80dp"
+        android:layout_y="150dp"
+        android:text="@string/btnoktext"
+        android:textAllCaps="false" />
+
+</AbsoluteLayout>

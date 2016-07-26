@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="usertipmsgbkg">#00FFFF</color>
+    <color name="tvcolor1">#DDA0DD</color>
+    <color name="tvcolor2">#00BFFF</color>
+    <color name="tvcolor3">#F5DEB3</color>
+    <color name="tvcolor4">#7CFC00</color>
+    <color name="tvcolor5">#00FFFF</color>
+    <color name="layoutcolor1">#FFB6C1</color>
+    <color name="layoutcolor2">#D8BFD8</color>
+    <color name="layoutcolor3">#EE82EE</color>
+    <color name="layoutcolor4">#E6E6FA</color>
+    <color name="layoutcolor5">#87CEFA</color>
+    <color name="layoutcolor6">#fff</color>
+    <color name="black">#000000</color>
+    <color name="white">#fff</color>
+
+    <color name="fan_mu_gua">#FFEFD5</color>
+    <color name="green_yellow">#ADFF2F</color>
+</resources>
