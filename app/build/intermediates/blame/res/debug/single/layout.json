@@ -48,6 +48,10 @@
         "source": "F:\\MyAndroidProjects\\ReadBookTest\\app\\src\\main\\res\\layout\\activity_sliding_pane_layout.xml"
     },
     {
+        "merged": "F:\\MyAndroidProjects\\ReadBookTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_pager_bottom.xml",
+        "source": "F:\\MyAndroidProjects\\ReadBookTest\\app\\src\\main\\res\\layout\\view_pager_bottom.xml"
+    },
+    {
         "merged": "F:\\MyAndroidProjects\\ReadBookTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_first_navigation_drawer.xml",
         "source": "F:\\MyAndroidProjects\\ReadBookTest\\app\\src\\main\\res\\layout\\nav_header_first_navigation_drawer.xml"
     },

@@ -4,20 +4,20 @@
     api-level="19"
     density="xhdpi"
     format="7"
-    timestamp="7647391829847" >
+    timestamp="11728272966072" >
 
     <task
         name="javac"
-        duration="5403" />
+        duration="6657" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1804" />
+        duration="294" />
     <task
         name="verifier"
-        duration="583" />
+        duration="104" />
 
     <artifact
         location="F:\MyAndroidProjects\ReadBookTest\app\build\outputs\apk\app-debug.apk"

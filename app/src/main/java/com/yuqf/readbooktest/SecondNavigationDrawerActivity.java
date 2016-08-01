@@ -65,7 +65,7 @@ public class SecondNavigationDrawerActivity extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        if (item.getItemId() == R.id.home || item.getItemId() == R.id.up || item.getItemId() == R.id.homeAsUp) {
+        if (item.getItemId() == android.R.id.home) {
             if (drawerLayout.isDrawerOpen(GravityCompat.START))
                 drawerLayout.closeDrawer(GravityCompat.START);
             else
