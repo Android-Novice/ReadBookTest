@@ -2,7 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_alignParentTop="true">
+    android:layout_alignParentTop="true"
+    android:background="@android:color/holo_green_light">
 
     <Button
         android:id="@+id/btnclosetitle"
@@ -10,6 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="5dp"
+        android:background="@android:color/holo_green_light"
         android:text="Close" />
 
     <TextView
@@ -27,5 +29,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="5dp"
+        android:background="@android:color/holo_green_light"
         android:text="Edit" />
 </LinearLayout>
